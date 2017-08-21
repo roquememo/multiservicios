@@ -1730,33 +1730,50 @@ ul#filters li button.btn-link.active {
     opacity: 1;
   }
 }
-.services-1 #services-1-carousel .item {
+
+
+.services-1 #services-1-carousel .item {  /*FALTAN ---> lavado , aseo,a/c */
   margin: 0 15px;
 }
-.services-1 .icon-rocket:before {
-  content: "\f135";
-}
-.services-1 .icon-code:before {
-  content: "\f121";
-}
-.services-1 .icon-mobile:before {
-  content: "\f10b";
-}
-.services-1 .icon-envelope-o:before {
-  content: "\f003";
-}
-.services-1 .icon-pencil:before {
-  content: "\f040";
-}
-.services-1 .icon-wrench:before {
+.services-1 .icon-fontaneria:before {
   content: "\f0ad";
 }
-.services-1 .icon-info-circle:before {
-  content: "\f05a";
+.services-1 .icon-electricidad:before {
+  content: "\f0e7";
 }
-.services-1 .icon-flag:before {
-  content: "\f024";
+.services-1 .icon-pintura:before {
+  content: "\f1fc";
 }
+.services-1 .icon-lavado:before {
+  content: "\f2de";
+}
+.services-1 .icon-cerrajeria:before {
+  content: "\f084";
+}
+.services-1 .icon-jardineria:before {
+  content: "\f18c";
+}
+.services-1 .icon-aseo:before {
+  content: "\f18c";
+}
+.services-1 .icon-plaga:before {
+  content: "\f188";
+}
+.services-1 .icon-ac:before {
+  content: "\f2dc";
+}
+.services-1 .icon-transporte:before {
+  content: "\f0d1";
+}
+.services-1 .icon-mecanica:before {
+  content: "\f085";
+}
+.services-1 .icon-carro:before {
+  content: "\f1b9";
+}
+
+
+
 .services-1.bg-dark .icon,
 .services-1.bg-primary .icon,
 .services-1.bg-secondary .icon,
