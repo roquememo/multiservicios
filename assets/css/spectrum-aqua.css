@@ -374,17 +374,17 @@ a.light-text:focus {
     border-color: rgba(62, 68, 77, 0.5);
   }
   .navbar-dark.top-nav-collapse {
-    background-color: #3e444d;
-    border-color: #33383f;
+    background-color: #fefafb;
+    border-color: #fefafb;
   }
   .navbar-dark.top-nav-collapse a {
-    color: #f4f5f7;
+    color: #313844;
   }
   .navbar-dark.top-nav-collapse li a {
-    color: #f4f5f7;
+    color: #313844;
   }
   .navbar-dark.top-nav-collapse .nav li a {
-    color: #f4f5f7;
+    color: #313844;
   }
   .navbar-dark.top-nav-collapse .nav li a:after {
     background: #52dbeb;
@@ -392,10 +392,10 @@ a.light-text:focus {
   .navbar-dark.top-nav-collapse .nav li a:hover,
   .navbar-dark.top-nav-collapse .nav li a:focus,
   .navbar-dark.top-nav-collapse .nav li a:active {
-    color: #f4f5f7;
+    color: #313844;
   }
   .navbar-light.top-nav-collapse {
-    background-color: #f4f5f7;
+    background-color: #313844;
     border-color: rgba(62, 68, 77, 0.5);
   }
   .navbar-light.top-nav-collapse .navbar-brand .logo {
