@@ -89,8 +89,46 @@ jQuery(document).ready(function() {
         paginationSpeed: 400,
         singleItem: true,
         navigationText: [
-            "<i class='fa fa-angle-left'></i> Prev",
-            "Next <i class='fa fa-angle-right'></i>"
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
+        $("#project-details-carousel1").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
+
+        $("#project-details-carousel2").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
+
+        $("#project-details-carousel3").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
         ],
 
     });
