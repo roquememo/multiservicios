@@ -133,6 +133,90 @@ jQuery(document).ready(function() {
 
     });
 
+        $("#project-details-carousel4").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
+        $("#project-details-carousel5").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
+        $("#project-details-carousel6").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
+        $("#project-details-carousel7").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
+        $("#project-details-carousel8").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
+        $("#project-details-carousel9").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
+        $("#project-details-carousel10").owlCarousel({
+
+        navigation: true,
+        slideSpeed: 300,
+        paginationSpeed: 400,
+        singleItem: true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Anterior",
+            "Siguiente <i class='fa fa-angle-right'></i>"
+        ],
+
+    });
     // Activates FitVids jQuery Plugin
     $(".container").fitVids();
 
