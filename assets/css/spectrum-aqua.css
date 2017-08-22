@@ -1556,6 +1556,12 @@ ul#filters li button.btn-link.active {
     max-width: 725px;
   }
 }
+
+.ajuste{
+     width: 650px !important;
+  height: 400px !important;
+}
+
 .pricing-col {
   max-width: 400px;
   margin: 0 auto;
