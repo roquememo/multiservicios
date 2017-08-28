@@ -71,7 +71,7 @@ $mail->setFrom('multiservicioscasko@gmail.com', 'Multiservicios Casko');
 $mail2->setFrom('multiservicioscasko@gmail.com', 'Multiservicios Casko');
 
 $mail->addAddress('roquememo@hotmail.com', 'Administrador');
-$mail2->addAddress('roquememo11@gmail.com', $name);
+$mail2->addAddress($email_address, $name);
 
 $mail->Subject = $email_subject1;
 $mail->MsgHTML($email_body1);
